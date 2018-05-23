@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/stefan/PhD/projects/reactions/claisen/data_set/struct/claisen/dft/test'
+let g:netrw_dirhist_2='/home/stefan/test'
+let g:netrw_dirhist_3='/home/stefan/workcopies/addFG'
+let g:netrw_dirhist_4='/home/stefan/workcopies'
+let g:netrw_dirhist_5='/home/stefan/tmp/sn_e/exchange/src'
